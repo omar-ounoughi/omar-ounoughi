@@ -1,4 +1,4 @@
-### Hi there 👋
+### A man gotta have a code 💬
 
 <!--
 **omar-ounoughi/omar-ounoughi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
